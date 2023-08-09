@@ -1,10 +1,10 @@
-rule CISA_10454006_06 : SUBMARINE trojan backdoor cleans_traces_of_infection hides_artifacts installs_other_components   
+rule Submarine : SUBMARINE trojan backdoor cleans_traces_of_infection hides_artifacts installs_other_components   
       
    				{   
       
    				meta:   
       
-   				 Author = "CISA Code & Media Analysis"   
+   				 Author = "FEVAR54"   
       
    				 Incident = "10454006"   
       
